@@ -17,6 +17,6 @@
 *   [discord.js](https://github.com/discordjs/discord.js/blob/webpack/discord.11.4.2.js)
 *   [JQuery](https://jquery.com/)
 
-## Authors 📝
+## Crédits 📝
 
 *   **[Nøtavøne](https://github.com/notavone)** - *Initial work*
